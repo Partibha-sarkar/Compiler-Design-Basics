@@ -61,4 +61,6 @@ Result: -12
 
 *OUTPUT*
 
+<img width="687" height="133" alt="Image" src="https://github.com/user-attachments/assets/6aab96cd-fa85-447e-84a8-2f3c019d7935" />
+
 
